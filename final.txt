@@ -1,0 +1,34 @@
+프로젝트 소개
+소형 컴퓨터, 사용자 지정 가능한 소프트웨어, 기본 구성 요소 키트 및 상상할 수 있는 모든 업그레이드로 생명을 불어넣는 로봇 고양이다. 오픈 소스를 기반으로 구축되었으며 프로그래밍을 통해 트릭, 동작 등을 성장시켜 나갈 수 있다.
+
+프로젝트 선정 이유
+관심 분야인 ‘cat’을 위주로 프로젝트를 모색하였고, 그 결과 선택하게 되었다.  
+
+해당 프로젝트의 코드 분석 내용
+작성 언어: C++, objective-C, python
+아두이노를 사용하였다. 
+동작 함수, 단축어 생성 함수, 테스트 함수로 이루어졌다. 
+여러 경우에 따라 다른 결과값을 얻기 위해 switch문을 사용하였다. 
+
+어떤 알고리즘을 적용하였는지?
+잘 모르겠다. 
+
+어떤 커뮤니케이션 방법을 취하고 있는지?
+Twitter @PetoiCamp, Instagram @Petoi_Camp, Youtube Channel 
+
+플로우차트 및 전체 서비스 흐름도등의 설계문서
+ModuleTests ? testBuzzer, testl2cDevice, testl2cEEPROM, testlnfaredRemote, testLED, testMPU, testSerialComm, testServo, testUltrasound
+Nybble
+Resources
+SerialMasterPython
+TrivialTricks
+README.md
+
+각 파일의 용도 및 설명
+ModuleTests(add testSerialComm)
+Nybble(make the print info shorter)
+Resources(Update package_petoi_nyboard_index.json)
+SerialMasterPython(test file code to be tested on the cat)
+TrivialTricks(added more TrivialTricks)
+README.md
+
